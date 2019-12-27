@@ -1,0 +1,5 @@
+# Results from C code
+  Shown:           16622
+  Frames:     3838894867
+  First Value:   8797248
+  Last Value:    3007673

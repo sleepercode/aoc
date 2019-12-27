@@ -1,0 +1,2 @@
+With no key stretching: 23769
+With key stretching: 20606

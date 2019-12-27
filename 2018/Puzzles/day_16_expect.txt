@@ -1,0 +1,2 @@
+Final registers: 582, 6, 582, 2
+547

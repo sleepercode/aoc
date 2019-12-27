@@ -1,0 +1,9 @@
+Collision at 50 x 54
+Collision at 91 x 39
+Collision at 30 x 69
+Collision at 42 x 100
+Collision at 95 x 80
+Collision at 68 x 88
+Collision at 132 x 79
+Collision at 89 x 54
+Final car at 50 x 100

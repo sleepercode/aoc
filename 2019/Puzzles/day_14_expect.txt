@@ -1,0 +1,2 @@
+One fuel requires: 198984
+A trillion ore gives: 7659732

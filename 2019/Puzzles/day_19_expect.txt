@@ -1,0 +1,3 @@
+The best 100x100 is: 9480761
+The number in the 50x50 grid is: 223
+223

@@ -1,0 +1,2 @@
+Visited W[11] x N[131] twice, which is 142 away.
+243

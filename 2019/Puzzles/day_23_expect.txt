@@ -1,0 +1,2 @@
+First output to 255: 17714
+First repeated NAT value: 10982

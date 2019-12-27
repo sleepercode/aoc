@@ -1,0 +1,8 @@
+Gen:            0, Score:           2349, State Len: 113
+2349
+Gen:  49999999950, Score:           3554, State Len: 133
+Gen:  49999999900, Score:           5935, State Len: 142
+Gen:  49999999850, Score:           7661, State Len: 143
+Gen:  49999999800, Score:           9568, State Len: 150
+Gen:            0, Score:  2100000001168, State Len: 150
+2100000001168

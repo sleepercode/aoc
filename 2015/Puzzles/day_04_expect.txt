@@ -1,0 +1,2 @@
+For 5 zeroes: 346386
+For 6 zeroes: 9958218

@@ -1,0 +1,2 @@
+Size of safe area: 37093
+5358

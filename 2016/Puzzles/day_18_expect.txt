@@ -1,0 +1,2 @@
+There are 1951 safe tiles in 40 rows.
+There are 20002936 safe tiles in 400000 rows.

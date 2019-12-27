@@ -1,0 +1,5 @@
+# Note: # Count: 980, Distance 100474026
+Nearest the big bot: 383
+# Note: # Count: 980, Distance 100474026
+The max count I found was: 980
+Best location value: 100474026

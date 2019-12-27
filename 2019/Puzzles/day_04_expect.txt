@@ -1,0 +1,3 @@
+Valid entries: 1169
+Valid entries with a double: 757
+(1169, 757)

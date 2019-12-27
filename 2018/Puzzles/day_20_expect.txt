@@ -1,0 +1,4 @@
+Shortest long distance: 4360
+1000 distance: 8509
+Total Frames: 8723
+4360

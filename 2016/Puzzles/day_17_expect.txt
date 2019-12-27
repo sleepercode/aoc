@@ -1,0 +1,2 @@
+The shortest path is: RLRDRDUDDR
+The longest path took 420 steps.

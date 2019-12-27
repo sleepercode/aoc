@@ -1,0 +1,5 @@
+# Note: # Count: 4, Distance 300
+Nearest the big bot: 5
+# Note: # Count: 4, Distance 300
+The max count I found was: 4
+Best location value: 300

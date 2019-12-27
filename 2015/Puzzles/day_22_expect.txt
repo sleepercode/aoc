@@ -1,0 +1,10 @@
+##### Normal Game Mode ############################################
+Boss Wins: 237889
+Player Wins: 22
+Gave Up: 659406
+>> Best Mana Spent: 1269
+##### Hard Game Mode ##############################################
+Boss Wins: 101972
+Player Wins: 17
+Gave Up: 146105
+>> Best Mana Spent: 1309

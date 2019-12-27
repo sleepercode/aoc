@@ -1,0 +1,2 @@
+Diversity value: 7543003
+Number of multi-dimensional bugs: 1975

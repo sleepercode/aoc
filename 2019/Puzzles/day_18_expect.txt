@@ -1,0 +1,2 @@
+With one worker: 6098
+With four workers: 1698

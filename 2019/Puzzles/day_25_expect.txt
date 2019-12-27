@@ -1,0 +1,32 @@
+Item: shell is valid
+Item: monolith is valid
+Item: bowl of rice is valid
+Item: planetoid is valid
+Item: cake is valid
+Item: ornament is valid
+Item: escape pod is invalid
+Item: molten lava is invalid
+Item: infinite loop is invalid
+Item: photons is invalid
+Item: fuel cell is valid
+Item: giant electromagnet is invalid
+Item: astrolabe is valid
+-- Items --
+monolith
+planetoid
+fuel cell
+astrolabe
+-- Room --
+
+
+
+== Pressure-Sensitive Floor ==
+Analyzing...
+
+Doors here lead:
+- south
+
+A loud, robotic voice says "Analysis complete! You may proceed." and you enter the cockpit.
+Santa notices your small droid, looks puzzled for a moment, realizes what has happened, and radios your ship directly.
+"Oh, hello! You should be able to get in by typing 1109393410 on the keypad at the main airlock."
+

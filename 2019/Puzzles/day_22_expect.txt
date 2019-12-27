@@ -1,0 +1,2 @@
+Card 2019 is at offset: 6831
+Card at position 2020: 81781678911487

@@ -1,0 +1,2 @@
+The infection system wins with 16747 units
+The immune system wins with 5923 units, with an immune boost of 45
