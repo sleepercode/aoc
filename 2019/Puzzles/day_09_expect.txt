@@ -1,2 +1,2 @@
-2494485073
-44997
+BOOST keycode: 2494485073
+Coordinates of the distress signal: 44997

@@ -8,4 +8,3 @@ Part 1: 2511
  #  #  ##  #  #  ##  #  #  ### #    #  #   
 That decodes to: HJKJKGPH 
 
-247

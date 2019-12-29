@@ -1,4 +1,3 @@
 Intersections sum: 3448
 Found location for score at: 438
 Cleaning readout: 762405
-762405

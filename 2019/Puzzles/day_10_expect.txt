@@ -1,2 +1,2 @@
 Destroyed #200 at 2, 4 == 204
-296
+Asteroids detected: 296

@@ -1,2 +1,2 @@
-768
-8684
+Manhattan distance: 768
+Fewest steps: 8684

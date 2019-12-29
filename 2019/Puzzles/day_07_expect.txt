@@ -1,2 +1,2 @@
-43812
-59597414
+Highest signal: 43812
+Highest signal, with feedback: 59597414

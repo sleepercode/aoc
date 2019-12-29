@@ -1,2 +1,2 @@
-315757
-481
+Direct and indirect orbits: 315757
+Min orbital transfers: 481
