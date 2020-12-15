@@ -1,0 +1,33 @@
+For round        0, 20 was said
+421
+For round        0, 20 was said
+For round  1000000, 528 was said
+For round  2000000, 2085 was said
+For round  3000000, 0 was said
+For round  4000000, 2745488 was said
+For round  5000000, 7 was said
+For round  6000000, 0 was said
+For round  7000000, 191 was said
+For round  8000000, 33 was said
+For round  9000000, 822 was said
+For round 10000000, 0 was said
+For round 11000000, 0 was said
+For round 12000000, 0 was said
+For round 13000000, 6 was said
+For round 14000000, 522 was said
+For round 15000000, 5522457 was said
+For round 16000000, 14573 was said
+For round 17000000, 17480 was said
+For round 18000000, 7785531 was said
+For round 19000000, 76 was said
+For round 20000000, 17437 was said
+For round 21000000, 734 was said
+For round 22000000, 24269 was said
+For round 23000000, 107 was said
+For round 24000000, 91 was said
+For round 25000000, 3382136 was said
+For round 26000000, 16 was said
+For round 27000000, 198 was said
+For round 28000000, 2734 was said
+For round 29000000, 7 was said
+436
