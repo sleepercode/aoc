@@ -6,4 +6,4 @@
 #    #  # # #  #  # # #  #  # #    #  #
 #     ### #  #  ##  #  # ###  ####  ###
 That decodes to: FGKCKBZG
-98
+FGKCKBZG
